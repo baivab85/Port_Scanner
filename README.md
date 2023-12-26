@@ -6,7 +6,7 @@ Port scanners are valuable tools in diagnosing network and connectivity issues. 
 
 
 
-How Does a Port Scanner Works?
+How Does a Port Scanner Works?.
 
 
 Ans: A port scanner sends a network request to connect to a specific TCP or UDP port on a computer and records the response.
